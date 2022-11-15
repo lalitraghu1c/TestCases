@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaximumNumber", "FindMaximumNumber.csproj", "{DE1BD170-0A47-4B7C-B570-FC11195D1B37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaxNumberTest", "..\FindMaxNumberTest\FindMaxNumberTest.csproj", "{9ED800AE-39DC-4BAB-BE7A-15BC15C6ADB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE1BD170-0A47-4B7C-B570-FC11195D1B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1BD170-0A47-4B7C-B570-FC11195D1B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1BD170-0A47-4B7C-B570-FC11195D1B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1BD170-0A47-4B7C-B570-FC11195D1B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED800AE-39DC-4BAB-BE7A-15BC15C6ADB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED800AE-39DC-4BAB-BE7A-15BC15C6ADB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED800AE-39DC-4BAB-BE7A-15BC15C6ADB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED800AE-39DC-4BAB-BE7A-15BC15C6ADB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9053F82-25D7-4C38-9672-76FEE568DA04}
+	EndGlobalSection
+EndGlobal
